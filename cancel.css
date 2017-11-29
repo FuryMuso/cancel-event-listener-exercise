@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.redbox {
+    background-color: #FF0000;
+    color: #000000;
+    width: 78px;
+    height: 36px;
+    border-radius: 3px;
+}
